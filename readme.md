@@ -55,7 +55,6 @@ To get a random meme just go to:
 
 ```
 yoururl/popular?where={"memeid": *A random number between 1 and 10320*}
-> python run.py
 ```
 
 
