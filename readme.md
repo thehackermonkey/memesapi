@@ -8,14 +8,14 @@ This is a quick project that came out of a [twitter conversation](https://twitte
 ... And a couple hours of leisure time
 
 
-I hope @escusado **se ponga chido** and uses it for [his project](https://github.com/escusado/console.meme) .
+I hope [@escusado](http://twitter.com/escusado) **se ponga chido** and uses it for [his project](https://github.com/escusado/console.meme) .
 
 I scrap the data from all the pages on [http://knowyourmeme.com/memes/popular](http://knowyourmeme.com/memes/popular).
 
 
 ##How it works?
 
-Well, first of all you need to build it on your own server or local machine (I really don't have mony to maintain this shit).
+Well, first of all you need to build it on your own server or local machine (I really don't have money to maintain this shit).
 
 I used the following python libs:
 
