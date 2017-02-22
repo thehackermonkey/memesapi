@@ -46,13 +46,16 @@ Go to the api folder and run
 
 Profit.
 
-Of course this is just for runin on your local machine but you may want to modify it to run on your fancy AWS instance or heroku.
+Of course this is just for runing on your local machine but you may want to modify it to run on your fancy AWS instance or heroku.
 
 
 ###Consulting the API
 
 To get a random meme just go to:
 
+```
 yoururl/popular?where={"memeid": *A random number between 1 and 10320*}
+> python run.py
+```
 
 
